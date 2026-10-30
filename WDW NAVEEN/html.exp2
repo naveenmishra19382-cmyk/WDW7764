@@ -50,3 +50,27 @@ media; gyroscope; picture‐in‐picture" allowfullscreen></iframe>
  <img src="https://images.t2online.in/cdn‐
 cgi/image/width=1200,quality=70/https://cms.t2online.in/api/images/1770270372150.jpg
 alt="Mirzapur" width="545">
+ <p><a href="https://en.wikipedia.org/wiki/Mirzapur_(film)"
+target="_blank">Explore more on Wikipedia</a></p>
+ </Entertainment>
+
+ <!‐‐Podcast Section‐‐>
+ <Podcast id='podcast'>
+ <h2>Podcast</h2>
+ <p>Listen to our latest episode on global news trends.</p>
+ <audio controls>
+ <source src="https://www.myinstants.com/media/sounds/dexter‐meme.mp3"
+type="audio/mpeg">
+ Your browser does not support the audio element.
+ </audio>
+ </Podcast>
+ <!‐‐Contact Section‐‐>
+ <Contact id='contact'>
+ <h2>Contact Us</h2>
+ <p>Have questions or feedback? Reach out to us!</p>
+ <p>Contact: globalnews@example.com</p>
+ </Contact>
+ </form>
+ </header>
+ </body>
+</html>
